@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trafficGestions", "trafficGestions\trafficGestions.csproj", "{7F45201C-72D5-45B8-B561-2C410CD04E2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D6DBD056-7180-4649-A235-5B9E307EB0DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7F45201C-72D5-45B8-B561-2C410CD04E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F45201C-72D5-45B8-B561-2C410CD04E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F45201C-72D5-45B8-B561-2C410CD04E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DBD056-7180-4649-A235-5B9E307EB0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DBD056-7180-4649-A235-5B9E307EB0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DBD056-7180-4649-A235-5B9E307EB0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DBD056-7180-4649-A235-5B9E307EB0DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
